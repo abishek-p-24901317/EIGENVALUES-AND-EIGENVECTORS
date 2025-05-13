@@ -30,8 +30,11 @@ print('Eigen values are {} and Eigen Vectors are {}'.format(values,vectors))
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/5cce0740-ce6e-4c0a-b3bb-b5ce580626fb)
-![image](https://github.com/user-attachments/assets/cad222e0-57f3-4207-be50-9b8d7bd81f19)
+## Expected output:
+![image](https://github.com/user-attachments/assets/905bb4e0-7a3d-4c02-8af0-46998c86f0ec)
+## Got:
+![image](https://github.com/user-attachments/assets/bf85134d-aee7-4aaa-b7ef-455f88dbc3ab)
+
 
 
 ## Result:
